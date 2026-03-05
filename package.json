@@ -1,0 +1,17 @@
+{
+  "name": "calendar-invite",
+  "version": "1.0.0",
+  "description": "Calendar invite file hosting with Vercel Speed Insights",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Static site - open index.html in browser'",
+    "build": "echo 'No build required for static site'"
+  },
+  "keywords": [
+    "calendar",
+    "invite",
+    "ics"
+  ],
+  "author": "tomolopo",
+  "license": "ISC"
+}
